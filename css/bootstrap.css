@@ -101,6 +101,11 @@ div img{
     grid-gap: 20px;
 }
 
+
+.gap-2{
+    grid-gap:10px;
+}
+
 .title{
     text-align: center;
 }
