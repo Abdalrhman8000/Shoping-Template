@@ -34,7 +34,7 @@
 
 
 
-.content-4-section-2:hover  .section-4-hover-img-effect {
+.content-4-section-2:focus .section-4-hover-img-effect {
   transform: scale3d(1,1,1);
 
 }
@@ -81,4 +81,3 @@
 .section-4-h2-linethrow{
   right: 10%;
 }
-
