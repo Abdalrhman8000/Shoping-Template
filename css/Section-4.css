@@ -1,0 +1,58 @@
+
+.under-title-2{
+  color:var(--main-color);
+}
+
+.overlay{
+  position: absolute;
+  top: 3%;
+  right: 6%;
+  background-color: var(--main-color);
+  color: #fff;
+  height: 25px;
+  line-height: 2px;
+  width: 70px;
+  text-align: center;
+}
+
+
+.section-4 .section-2 i{
+  
+  color: var(--glod-color);
+  
+}
+
+
+.section-4-hover-img-effect{
+  position: absolute;
+  top: 0%;
+  left: 0;
+  transform: scale3d(0,1,0);
+  
+}
+
+
+
+
+.content-4-section-2:hover  .section-4-hover-img-effect {
+
+  transform: scale3d(1,1,1);
+
+}
+
+
+.icons{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.icons i {
+  background-color:var(--black-color);
+  padding: 10px;
+}

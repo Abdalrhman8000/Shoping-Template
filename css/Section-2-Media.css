@@ -1,0 +1,65 @@
+
+/*-------------Media_Start-Meduim-Section-2-Start--------------------*/
+
+@media (max-width:992px){
+
+    .section-2 h2{
+        color:var(--white-color)
+    }
+
+.content-4-section-2 h2{
+    font-weight:600;
+    display:block;
+    padding-bottom: 40px;
+    color:var(--white-color)
+}
+
+
+.content-4-section-2 span{
+    font-size: 10px;
+    padding-top: 10px;
+    display: inline-block;
+    color:var(--white-color)
+
+}
+
+}
+
+
+@media (max-width: 686px) {
+
+    .row{
+        
+        flex-direction: column;
+    }
+
+
+    
+.content-4-section-2 span{
+    font-size: 13px;
+    padding-top: 10px;
+    display: inline-block;
+    color: var(--white-color);
+
+}
+
+    .content-4-section-2 h2{
+        font-size: 16px;
+        font-weight:600;
+        display:block;
+        color: var(--white-color);
+        padding: 10px 0;
+    }
+
+
+  
+
+
+    .title h2{
+        font-size: 16px;
+    }
+    
+}
+
+
+/*-------------Media_Start-Meduim-Section-2-End--------------------*/

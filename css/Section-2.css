@@ -1,0 +1,15 @@
+
+.content-4-section-2 h2{
+    font-size: 13px;
+    font-weight:600;
+    display:block;
+    padding-top: 10px;
+
+}
+
+
+.content-4-section-2 span{
+    font-size: 13px;
+    padding-top: 10px;
+    display: inline-block;
+}

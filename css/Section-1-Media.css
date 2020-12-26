@@ -1,0 +1,19 @@
+
+    .spac{
+        padding-top:100px ;
+    }
+
+    @media (min-width:200px) and (max-width:992px){
+        .section-1 .contain{
+            width: 100%;
+        }
+    }
+
+
+    
+    @media (min-width:320px) and (max-width:400px){
+        .section-1 .contain{
+            width: 100%;
+            padding-left: 30px;
+        }
+    }

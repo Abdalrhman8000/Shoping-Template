@@ -1,0 +1,182 @@
+
+.section-3 .contain{
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--gray-color);
+
+}
+    .section-3-content-1{
+        background-color: var(--white-color-1);
+        max-height:360px;
+        min-height:10px;
+        height: 340px;
+        width:440px;
+        padding: 40px;
+        border-radius: 20px;
+    }
+
+    .section-3-content-1 h4{
+        color:var(--white-color);
+        font-size:24px;
+        padding-bottom: 10px;
+    }
+ 
+
+    
+    .section-3-content-1 span{
+        color:var(--white-color);
+        font-size:17px;
+        display: inline-block;
+        padding-bottom: 10px;
+        font-weight: 600;
+    }
+
+
+    
+    
+    .section-3-content-1 p{
+        color:grey;
+        font-size:14px;
+        line-height: 27px;
+    }
+
+    .section-3-content-2{
+        position: relative;
+    }
+
+    .section-3-content-3{
+        position: relative;
+    }
+
+
+    .content-3-span,.content-3-h3{
+        position: absolute;
+        top: 20px;
+        color: var(--white-color-1);
+        left: 20px;
+    }
+
+    .content-3-h3{
+        top: 45px;
+        font-size: 17px;
+    }
+
+
+    .content-3-h3{
+        top: 45px;
+        left: 20px;
+        font-size: 17px;
+    }
+
+
+
+    
+    .content-2-span,.content-2-h3{
+        position: absolute;
+        top: 20px;
+        color: var(--white-color-1);
+        left: 20px;
+    }
+
+    .content-2-h3{
+        top: 45px;
+        font-size: 17px;
+    }
+
+
+    .content-2-h3{
+        top: 45px;
+        left: 20px;
+        font-size: 17px;
+    }
+
+
+.content-4-section-2{
+    position: relative;
+}
+
+.section-4-h2-linethrow{
+    position: absolute;
+    bottom: 0;
+    text-decoration: line-through;
+    color: var(--gray-color);
+    right:60%;
+}
+
+
+
+.section-3-content-3-parent .content-1{
+    flex:1;
+    text-align: center;
+    border-right: 1px solid var(--white-color-1);
+  }
+  
+  .background-section-3-effect{
+    background-image: url("../images/Section-3/service-icon.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 50px;
+
+  }
+
+  .child-1:hover{
+    background-position-y: -85px;
+  }
+
+
+  .child-2{
+      background-position-y:-183px;
+  }
+
+
+  
+  .child-2:hover{
+    background-position-y:-276px;
+}
+
+
+
+  
+.child-3{
+    background-position-y:-369px;
+}
+
+
+
+.child-3:hover{
+    background-position-y:-458px;
+}
+
+
+
+
+.child-4{
+    background-position-y:-554px;
+}
+
+
+
+.child-4:hover{
+    background-position-y:-644px;
+}
+
+
+  .section-3-content-3-parent div p{
+    color: var(--gray-color);
+    font-size: 13px;
+    line-height: 17px;
+  }
+
+
+  
+.section-3-content-3-parent div:last-child{
+    flex:1;
+    text-align: center;
+    border-right:0;
+  }
+
+  .section-3-content-3-parent div h4{
+      padding-bottom: 5px;
+  }
+  
+
+
