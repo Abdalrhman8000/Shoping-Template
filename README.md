@@ -1,1 +1,0 @@
-# Shoping-Template
