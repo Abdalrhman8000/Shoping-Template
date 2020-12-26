@@ -34,7 +34,7 @@
 
 
 
-.content-4-section-2:active .section-4-hover-img-effect {
+.content-4-section-2:hover .section-4-hover-img-effect {
   transform: scale3d(1,1,1);
 
 }
@@ -56,9 +56,18 @@
   padding: 10px;
 }
 
+.content-4-section-2:active .section-4-hover-img-effect {
+  transform: scale3d(1,1,1);
+
+}
+
 
 @media (min-width:800px) and (min-height:1280px){
   
+  
+
+
+
 .icons{
   display: flex;
   width: 100%;
