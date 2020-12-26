@@ -35,7 +35,6 @@
 
 
 .content-4-section-2:hover  .section-4-hover-img-effect {
-
   transform: scale3d(1,1,1);
 
 }
@@ -72,4 +71,9 @@
   grid-gap: 0px;
 }
 
+}
+
+
+.section-4-h2-linethrow{
+  right: 10%;
 }
