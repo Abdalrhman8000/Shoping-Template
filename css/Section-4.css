@@ -85,3 +85,10 @@
 .section-4-h2-linethrow{
   right: 10%;
 }
+
+
+@media (min-width:200px) and (max-width:992px){
+  .section-4 h2,h1,h3,h4,span{
+    color: var(--white-color);
+  }
+}
