@@ -331,12 +331,13 @@
         }
         
         nav,ul{
-            background: var(--grey-color);
+           background:linear-gradient(60deg,#154360,#2980B9);
     
         }
     
         body{
-           background: var(--black-color);
+           background: #CBD3D2;
+           background:linear-gradient(60deg,#154360,#2980B9);
         }
     
         
