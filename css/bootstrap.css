@@ -19,13 +19,14 @@
     --white-color-1:#ffcdac;
     --white-color:#fff;
     --white-color-2:#B0A8B9;
-    --grey-color:linear-gradient(to top left,#D1D0CE 40%,#B6B6B4 60%);
+    --grey-color:linear-gradient(to top  ,#dcdbdf 30%,#ebeae8 70%);
     --black-color:#000;
     --orange-color:#f50;
     --blue-color:#2c2172;  
-    --gray-color:gray; 
+    --gray-color:#ebeae8; 
     --glod-color:gold; 
 }
+
 
 .algin-items-start-flext{
     align-items: flex-start;
@@ -125,5 +126,18 @@ div img{
 .contain{
     margin: auto;
     width: 80%;
+}
+
+::-webkit-scrollbar{
+    width: 15px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: var(--white-color);
+
+}
+::-webkit-scrollbar-thumb{
+    background:var(--main-color);
+
 }
 /* Genral-Styels-End */

@@ -336,13 +336,18 @@
         }
     
         body{
-            background:#B6B6B4;
+           background: var(--grey-color);
         }
     
         
         nav ul {
             background-color: var(--grey-color);
     
+        }
+
+        ::-webkit-scrollbar-track{
+            background-color: var(--gray-color);
+        
         }
     
     
@@ -364,10 +369,10 @@
         }
     }
     
-    @media (min-width:800px) and (min-height:990px){
+    @media (min-width:750px) and (min-height:990px){
 
         nav ul {
-            top: 7%;
+            top: 8%;
         }
     }
     
