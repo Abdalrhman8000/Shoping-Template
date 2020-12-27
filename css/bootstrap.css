@@ -14,11 +14,12 @@
     text-transform: capitalize;
 }
 
+
 :root{
     --main-color:#6E2C00;
-    --white-color-1:#ffcdac;
+    --white-color-1:#F5ECCE;
     --white-color:#fff;
-    --white-color-2:#B0A8B9;
+    --white-color-2:#929094;
     --grey-color:linear-gradient(to top  ,#dcdbdf 30%,#ebeae8 70%);
     --black-color:#000;
     --orange-color:#f50;
@@ -61,7 +62,7 @@
 }
 
 body{
-    height:3000px ;
+    height:5000px ;
 
 }
 
@@ -94,13 +95,23 @@ div img{
     padding-top: 45px;
 }
 
+.padding-top-2{
+    padding-top: 75px;
+}
 
 
 
+
+.padding-top-ex{
+    padding-top: 120px;
+}
 
 .gap{
     grid-gap: 20px;
 }
+
+
+
 
 
 .gap-2{
