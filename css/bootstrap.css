@@ -14,6 +14,9 @@
     text-transform: capitalize;
 }
 
+.clear{
+    clear: both;
+}
 
 :root{
     --main-color:#6E2C00;
@@ -110,6 +113,9 @@ div img{
 
 
 
+.gap-3{
+    grid-gap: 30px;
+}
 
 
 .gap-2{
