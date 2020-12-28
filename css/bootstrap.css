@@ -61,10 +61,6 @@
     flex: 7;
 }
 
-body{
-    height:5000px ;
-
-}
 
 .clear{
     clear: both;
@@ -99,7 +95,9 @@ div img{
     padding-top: 75px;
 }
 
-
+.padding-bottom{
+    padding-bottom: 75px;
+}
 
 
 .padding-top-ex{

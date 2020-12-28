@@ -325,9 +325,13 @@
             border-bottom: 2px solid var(--white-color);
         }
         
-        nav,ul{
+        nav {
            background:linear-gradient(60deg,#154360,#2980B9);
     
+        }
+
+        nav ul{
+           background:linear-gradient(60deg,#154360,#2980B9);
         }
     
         body{
