@@ -122,9 +122,13 @@ footer .contain{
  }
 
 
- @media (min-width:200px) and (max-width:768px){
+ @media (min-width:200px) and (max-width:992px){
     .footer-conntent-3,.footer-conntent-2,.footer-conntent-1{
          border-bottom: 1px solid var(--white-color-2);
          padding-bottom: 20px;
+     }
+
+     footer .row {
+         flex-direction: column;
      }
  }

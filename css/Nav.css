@@ -9,10 +9,10 @@ nav{
     background-color:var(--white-color);
     z-index: 1000;
     box-shadow:
-    0 0 10px var(--black-color),
-    0 0 5px var(--black-color),
-    0 0 5px var(--black-color),
-    0 0 5px var(--black-color);
+    0 0 2px var(--black-color),
+    0 0 2px var(--black-color),
+    0 0 2px var(--black-color),
+    0 0 2px var(--black-color);
 }
 
 .logo-div-nav img{
